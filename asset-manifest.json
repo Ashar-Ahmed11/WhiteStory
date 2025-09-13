@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/WhiteStory/static/css/main.a7cac0a7.css",
+    "main.js": "/WhiteStory/static/js/main.7244bb7b.js",
+    "static/js/453.43fe3342.chunk.js": "/WhiteStory/static/js/453.43fe3342.chunk.js",
+    "static/media/nukhbapreview.png": "/WhiteStory/static/media/nukhbapreview.b81ddec154e55dd95e99.png",
+    "static/media/estellaspreview.PNG": "/WhiteStory/static/media/estellaspreview.665ffaec35aa762da40b.PNG",
+    "static/media/tripagain.PNG": "/WhiteStory/static/media/tripagain.a5cac4d350eb68f647ff.PNG",
+    "static/media/moabpreview.PNG": "/WhiteStory/static/media/moabpreview.130ea950dff4ff4e752e.PNG",
+    "static/media/vertexpreview.png": "/WhiteStory/static/media/vertexpreview.188be8c1e9a5353028fb.png",
+    "static/media/sftpreview.png": "/WhiteStory/static/media/sftpreview.471d445f60be0f8d8b83.png",
+    "static/media/metachatpreview.PNG": "/WhiteStory/static/media/metachatpreview.c4b74331bc8ec0532572.PNG",
+    "static/media/cloudbook.png": "/WhiteStory/static/media/cloudbook.92c4f9aa4816c7d7e7ad.png",
+    "static/media/navbar-logo.png": "/WhiteStory/static/media/navbar-logo.3e9f13604c6784276c62.png",
+    "static/media/logo.svg": "/WhiteStory/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/WhiteStory/index.html",
+    "main.a7cac0a7.css.map": "/WhiteStory/static/css/main.a7cac0a7.css.map",
+    "main.7244bb7b.js.map": "/WhiteStory/static/js/main.7244bb7b.js.map",
+    "453.43fe3342.chunk.js.map": "/WhiteStory/static/js/453.43fe3342.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7cac0a7.css",
+    "static/js/main.7244bb7b.js"
+  ]
+}
